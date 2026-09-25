@@ -1142,7 +1142,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Alation/alation-plugins.git",
-        "sha": "b450039495787ecd6bc16176cca6df6c4a1336c3"
+        "sha": "cbe13eb36721cca75d0167280896157982feb1a4"
       },
       "homepage": "https://github.com/Alation/alation-plugins"
     },
