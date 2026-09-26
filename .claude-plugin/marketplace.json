@@ -2196,7 +2196,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/b12io/b12-claude-plugin.git",
-        "sha": "a53638c2b23b82c6be7c4e5b1e3cecd6a59f9fb8"
+        "sha": "c1eb08dbff0d918bdf65a103fda93e16e986c6ab"
       },
       "homepage": "https://github.com/b12io/b12-claude-plugin"
     },
