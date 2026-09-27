@@ -3491,7 +3491,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Digital-Process-Tools/claude-5h-window-spread.git",
-        "sha": "75b4763c7773142f270967c3cd7f8d8f86c65372"
+        "sha": "de8d3e89d7a04a273148173b408ee46f198c76e9"
       },
       "homepage": "https://github.com/Digital-Process-Tools/claude-5h-window-spread"
     },
