@@ -3561,7 +3561,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/tombelieber/claude-backup.git",
-        "sha": "b016ff51c085c41d1974b20a025c9521ebc1e6ee"
+        "sha": "f1ca09c264b946c2c31e511037876d984bc31f6d"
       },
       "homepage": "https://github.com/tombelieber/claude-backup"
     },
