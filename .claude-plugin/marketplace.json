@@ -4209,7 +4209,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Astro-Han/claude-lens.git",
-        "sha": "b39e8fc8756da0b5c9322fb074386f874750103c"
+        "sha": "7fe9fa8570b0f11f6e254700083c2b152ce3cc34"
       },
       "homepage": "https://github.com/Astro-Han/claude-lens"
     },
