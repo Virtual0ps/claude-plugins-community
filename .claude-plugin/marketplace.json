@@ -3825,7 +3825,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/PAIR-Systems-Inc/goodmem-claude-code-plugin.git",
-        "sha": "56fbe77de1ffeba28b6cb10c38169270cbd40928"
+        "sha": "ab7aca8ac501a16e5d595c1e949432815c702a4e"
       },
       "homepage": "https://github.com/PAIR-Systems-Inc/goodmem-claude-code-plugin"
     },
