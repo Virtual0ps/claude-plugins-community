@@ -4179,7 +4179,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/illarion/claude-jira-skill.git",
-        "sha": "a4c5f9b202f1fc9131ea39bbaac4dc7a52127257"
+        "sha": "3c9d25d2c80c60bdac6194661e43365271d8e160"
       },
       "homepage": "https://github.com/illarion/claude-jira-skill"
     },
