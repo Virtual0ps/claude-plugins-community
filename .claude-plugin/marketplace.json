@@ -5161,7 +5161,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cloudflare/skills.git",
-        "sha": "f96bff754e428838818017f75817f0f9428acd48"
+        "sha": "626547c06881a20b3322bdc2ed6e6451b33a4fb6"
       },
       "homepage": "https://github.com/cloudflare/skills"
     },
