@@ -4611,7 +4611,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/WithHolm/claude-tab-fix.git",
-        "sha": "75064ed8fc4fb2c04c07759cf7f80b4d47a952a1"
+        "sha": "98af506ad6bb09abbceaafd673c8b49555f992d1"
       },
       "homepage": "https://github.com/WithHolm/claude-tab-fix"
     },
