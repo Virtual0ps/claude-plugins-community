@@ -7011,7 +7011,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/DigiCatalyst-Systems/dep-diff-mcp.git",
-        "sha": "bee50329f29f854cc7ae8d2adfafaaa542158104"
+        "sha": "7925ca14d609bd6602bcee91294858ba66de3d9c"
       },
       "homepage": "https://www.npmjs.com/package/@digicatalyst/dep-diff-mcp"
     },
