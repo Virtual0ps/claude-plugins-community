@@ -8390,7 +8390,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/voxel51/fiftyone-skills.git",
-        "sha": "4fedd6ee7aa88e6e540e31bf54602528c9ca529d"
+        "sha": "e28a9a3d453b15cbefa6ccc81c89fecf723c31b2"
       },
       "homepage": "https://docs.voxel51.com/"
     },
