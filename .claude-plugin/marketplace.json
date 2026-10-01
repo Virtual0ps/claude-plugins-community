@@ -7546,7 +7546,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zdanovichnick/dotnet-pilot.git",
-        "sha": "2b6976f99a243e75d854998dc45260cbbced7232"
+        "sha": "105deeccdee8326fdac569664fb4b73634a68eea"
       },
       "homepage": "https://github.com/zdanovichnick/dotnet-pilot/blob/master/README.md"
     },
