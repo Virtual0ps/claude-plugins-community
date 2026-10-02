@@ -8771,7 +8771,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/fullstorydev/fullstory-skills.git",
-        "sha": "b20614e2d08d7a7c70775bb62b5af640f60b024b"
+        "sha": "d8e799fbfdf147bda6d3511f32dca190df6feef4"
       },
       "homepage": "https://developer.fullstory.com/mcp/client-setup/claude-code/"
     },
