@@ -8831,7 +8831,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/agent-sh/gate-and-ship.git",
-        "sha": "bfff7063fde89a05ce480e37019bb6e00ba55984"
+        "sha": "c5da4ecb6f786b28eccbf1d4ad0e9489dc9d051f"
       },
       "homepage": "https://github.com/agent-sh/gate-and-ship"
     },
