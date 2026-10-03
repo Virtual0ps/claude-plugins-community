@@ -9953,7 +9953,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/activeloopai/hivemind.git",
-        "sha": "7d17a412e983d00d86e8146a311eff017eb9f4f4"
+        "sha": "e054fb161de7ae1e3466fb93496713f4d3c82da7"
       },
       "homepage": "https://deeplake.ai/hivemind"
     },
