@@ -9485,7 +9485,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/hexstack-apps/claude-plugin-grimoire.git",
-        "sha": "83f61004abbdb673cc41c6c7eb5f579befcfc308"
+        "sha": "86e33fcf265eda1ddef29e85c62707f820a37b46"
       },
       "homepage": "https://hexstack.app/claude-grimoire"
     },
