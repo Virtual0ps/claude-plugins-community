@@ -9669,7 +9669,7 @@
         "url": "halyard-labs/claude-plugin-marketplace",
         "path": "plugins/halyard",
         "ref": "main",
-        "sha": "19b5ca21109e481ea063ba128e9763d63729077f"
+        "sha": "5c9ab13db7e27c9f9bd64268121a03156f550f64"
       },
       "homepage": "https://mcp.usehalyard.ai/install"
     },
