@@ -10843,7 +10843,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jfrog/claude-plugin.git",
-        "sha": "5525279d72af8e1982acfc8dabd1058d55b8b167"
+        "sha": "9b1f8f6c883522a87502e5155abd593a8befe3c5"
       },
       "homepage": "https://github.com/jfrog/claude-plugin"
     },
