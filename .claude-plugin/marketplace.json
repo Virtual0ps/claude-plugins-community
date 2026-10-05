@@ -11055,7 +11055,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/karellen/karellen-lsp-mcp.git",
-        "sha": "a811c3f17db87e378af0604c1ea4239406dbe01c"
+        "sha": "fd26103db33f041d031fb26250ff14ecf6ef3440"
       },
       "homepage": "https://github.com/karellen/karellen-lsp-mcp"
     },
