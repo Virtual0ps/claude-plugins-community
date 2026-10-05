@@ -10833,7 +10833,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jettyio/jettyio-skills.git",
-        "sha": "773b168e53ff9681a2f5adcd89dd0ca819a213bd"
+        "sha": "7f9c0d1325957ad434c5e943853383c119d04ad3"
       },
       "homepage": "https://www.jetty.io"
     },
