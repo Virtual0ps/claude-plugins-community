@@ -10783,7 +10783,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/jamdesk/jamdesk-claude-plugin.git",
-        "sha": "27d3be9c2c757f95df90cafc369d24ae2784fd65"
+        "sha": "0c1fa135bcd4ea149ec583fd79b4458eda0d987d"
       },
       "homepage": "https://www.jamdesk.com"
     },
