@@ -11301,7 +11301,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/kube-dc/kube-dc-public.git",
-        "sha": "56cecd775f386ca0b50cdc58c8dd0699fa86b4fa"
+        "sha": "fbb704cadc96044e7542673cccf0922ba6972fe5"
       },
       "homepage": "https://docs.kube-dc.com"
     },
