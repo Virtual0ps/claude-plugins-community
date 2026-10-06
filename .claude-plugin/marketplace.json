@@ -12092,7 +12092,7 @@
         "url": "https://github.com/luciqai/agent-skills.git",
         "path": "plugins/luciq-skills",
         "ref": "main",
-        "sha": "e02c409554ff5081d56e5afa5224277baa085597"
+        "sha": "b984b91a28b4ed8a572914e660691a3551ff8176"
       },
       "homepage": "https://www.luciq.ai"
     },
