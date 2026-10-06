@@ -11341,7 +11341,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/skills.git",
-        "sha": "b9958d6c7b0df35a7f1df76a5f6c3a4505b0a3d3"
+        "sha": "b86532b77f16f1e27c7cffa32bb632aa3cd9a352"
       },
       "homepage": "https://langfuse.com/docs/api-and-data-platform/features/agent-skill"
     },
