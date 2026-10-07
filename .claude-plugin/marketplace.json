@@ -12211,7 +12211,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/insideout-ai/make-it-work.git",
-        "sha": "aac589f62e2eded9333767a0490c0a1b1751cd0e"
+        "sha": "546e8aea80c044e43ddb6c27ccd4a0504b0acf04"
       },
       "homepage": "https://insideoutai.io/make-it-work"
     },
