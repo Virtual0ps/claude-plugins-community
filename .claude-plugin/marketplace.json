@@ -13874,7 +13874,7 @@
         "url": "ApurvBazari/claude-plugins",
         "path": "notify",
         "ref": "main",
-        "sha": "1529d2e5201f15e7a7340ebbffae7ba9e5c8d484"
+        "sha": "e0f7567b2048987e59174372e5dcae137e3b6c73"
       },
       "homepage": "https://github.com/ApurvBazari/claude-plugins/blob/main/notify/README.md"
     },
