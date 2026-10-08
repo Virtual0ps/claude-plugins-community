@@ -13596,7 +13596,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Softtor/nestjs-hexagonal.git",
-        "sha": "7ebc591bb1cb9d6be3629e4e0595ae9bd431bab4"
+        "sha": "4409d402565f82f6fa6c93f5b39676cd691df516"
       },
       "homepage": "https://github.com/Softtor/nestjs-hexagonal"
     },
