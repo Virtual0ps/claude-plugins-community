@@ -13700,7 +13700,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/nvsecurity/nightvision-skills.git",
-        "sha": "957db6bb934839275c0f643042101bbb675ddbf7"
+        "sha": "daca2c030ee206d27cab52a462b6e7fc6bf7d693"
       },
       "homepage": "https://github.com/nvsecurity/nightvision-skills"
     },
