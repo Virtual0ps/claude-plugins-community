@@ -13732,7 +13732,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/nitrosend/claude.git",
-        "sha": "7f91b9387282fea2c6261f33214459cf3d8e3d37"
+        "sha": "1d6254a5a4ff303aeaf5afeed27ec13e529435d2"
       },
       "homepage": "https://nitrosend.com/"
     },
